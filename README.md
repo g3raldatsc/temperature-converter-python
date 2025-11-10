@@ -61,4 +61,6 @@ python temperature_converter.py
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
 
-![Anime Gif](https://media.tenor.com/RXpiLts0y6EAAAAm/jade-unjaded.webp)
+<p align="center">
+  <img src="https://media.tenor.com/RXpiLts0y6EAAAAm/jade-unjaded.webp" width="200" alt="Anime Gif">
+</p>
